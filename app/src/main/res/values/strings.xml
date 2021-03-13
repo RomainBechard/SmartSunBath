@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartSunBath</string>
+    <string name="welcome_text">Smart management of the light for your house !</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="bedroom_1">Bedroom 1</string>
+    <string name="your_connected_rooms">YOUR CONNECTED ROOMS</string>
+    <string name="manuel_mode_activated">MANUEL MODE ACTIVATED</string>
+    <string name="bedroom_2">Bedroom 2</string>
+    <string name="continue_to_next_page">Continue</string>
+    <string name="connect_ble">Connect BLE</string>
+    <string name="toggle_light">Toggle light</string>
+</resources>
